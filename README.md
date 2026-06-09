@@ -19,9 +19,9 @@ The primary goal of this project is to provide HR department heads and executive
 
 | Tool | Purpose / Use Case | Key Functions Performed |
 | :--- | :--- | :--- |
-| **Microsoft Excel** | Data Storage & Preliminary Check | • Maintained the core dataset (`HR_Analytics (1).xlsx`) <br> • Validated columns and managed structure prior to visualization |
-| **Power BI / Analytics Tool** | Data Modeling & Visualization | • Engineered custom metrics and calculations <br> • Designed interactive charts, demographic filters, and attrition matrices |
-| **GitHub** | Project Documentation & Hosting | • Managed version control <br> • Documented project goals and hosted deliverables |
+| **Microsoft Excel** | Data Storage & Preliminary Check | • Maintained the core dataset (`HR_Analytics (1).xlsx`)  • Validated columns and managed structure prior to visualization |
+| **Power BI / Analytics Tool** | Data Modeling & Visualization | • Engineered custom metrics and calculations  • Designed interactive charts, demographic filters, and attrition matrices |
+
 
 ---
 
